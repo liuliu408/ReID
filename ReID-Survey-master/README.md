@@ -1,3 +1,5 @@
+代码来源：https://github.com/mangye16/ReID-Survey
+
 # ReID-Survey with a Powerful AGW Baseline (To be updated)
 Deep Learning for Person Re-identification:  A Survey and Outlook. [arXiv](https://arxiv.org/abs/2001.04193)
 
