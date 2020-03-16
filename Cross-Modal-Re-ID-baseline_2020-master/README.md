@@ -1,3 +1,5 @@
+代码来源：https://github.com/mangye16/Cross-Modal-Re-ID-baseline
+
 # Cross-Modal-Re-ID-baseline (AGW) (Update Soon)
 Pytorch Code for Cross-Modality Person Re-Identification (Visible Thermal Re-ID) on RegDB dataset [1] and SYSU-MM01 dataset [2]. 
 
